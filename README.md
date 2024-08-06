@@ -1,7 +1,7 @@
 <img src="https://github.com/user-attachments/assets/bc2d9b33-05a7-4e1e-be90-9a6b661a480b" alt="All You Need To Know About MERN Stack-banner" width="1000" height="500" style="bg-cover:fit" >
 
 <h1 align="center">Hi 👋, I'm Muhammad Usama Naeem</h1>
-<h3 align="center">An enthusiastic and creative frontend developer from Pakistan, dedicated to crafting beautiful and user-friendly web interfaces. Passionate about learning the MERN stack.</h3>
+<h3 align="center">"An enthusiastic and creative frontend developer from Pakistan, dedicated to crafting beautiful and user-friendly web interfaces. Passionate about learning the MERN stack."</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usanaee&label=Profile%20views&color=0e75b6&style=flat" alt="usanaee" /> </p>
 
