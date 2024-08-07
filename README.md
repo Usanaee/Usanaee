@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **usamanaeemdev@gmail.com**
 
-- ⚡ Fun fact **I am good photographer and always ready to experience new things and adventures.**
+- ⚡ Fun fact **I am good photographer and always ready to capture new things and adventures.**
 
 <div style="display: flex; gap: 10px; margin-top: 5%">
   <img alt="Coding" width="45%" src="https://github.com/user-attachments/assets/af22bb6a-843d-46ae-91ee-dc63be127aa8" style="border-radius: 50px;">
