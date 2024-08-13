@@ -13,9 +13,9 @@
 
 - 💬 Ask me about **React Js**
 
-- 📫 How to reach me **usamanaeemdev@gmail.com**
-
 - 📝 I regularly write articles on **https://medium.com/@usanaee.1**
+
+- 📫 How to reach me **usamanaeemdev@gmail.com**
 
 - ⚡ Fun fact **I am good photographer and always ready to capture new things and adventures.**
 
