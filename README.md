@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **usamanaeemdev@gmail.com**
 
+- 📝 I regularly write articles on **https://medium.com/@usanaee.1**
+
 - ⚡ Fun fact **I am good photographer and always ready to capture new things and adventures.**
 
 <div style="display: flex; gap: 10px; margin-top: 5%">
